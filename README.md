@@ -29,3 +29,13 @@
 ```
   flutter gen-l10n <DIRECTORY>
 ```
+### Run build runner to generate code-gen for flutter project when files changes.
+```
+  flutter pub run build_runner watch --delete-conflicting-outputs
+```
+
+### Run build runner to generate code-gen for flutter project.
+```
+  flutter pub run build_runner build --delete-conflicting-outputs
+```
+

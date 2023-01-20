@@ -39,3 +39,10 @@
   flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
+### Cleans flutter project and gets dependencies to make project ready for a fresh run.
+
+```
+  flutter clean && flutter pub get
+```
+
+

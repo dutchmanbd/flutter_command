@@ -17,8 +17,6 @@
   flutter run lib/main.dart
 ```
 
-## To Run Pub command
-
 ### Get latest packages
 
 ```

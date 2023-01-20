@@ -1,6 +1,6 @@
-# flutter_command
+# flutter commands
 
-# Create New Project
+## Create New Project
 
 ```
   flutter create project_name
